@@ -1,4 +1,5 @@
 This file was edited in branch 'Prateek'.
 No changes were made in 25MCC20062_Prateek.txt file.
-It only has the single line from 'First Commit'.
-After merging with branch '25MCC20062' the second line will be erased automatically.
+It only has the single line from 'First Commit' in branch 'Prateek'
+After merging only this file will be added and the other file will have
+content from its own commit.
